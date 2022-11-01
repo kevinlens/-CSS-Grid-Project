@@ -1,3 +1,9 @@
+/* Everything is imported into this one file
+   which allows for individual files to communicate
+   with one another and have access to all variables 
+   globally
+*/
+
 @import "base";
 @import "typography";
 
